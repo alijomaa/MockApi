@@ -1,0 +1,8 @@
+{
+  "currencies": [
+	{"id":1,"name":"Australian Dollar","isoCode":"AUD","symbol":"$"},
+	{"id":2,"name":"United States Dollar","isoCode":"USD","symbol":"$"},
+	{"id":3,"name":"Euro","isoCode":"EUR","symbol":""},
+	{"id":4,"name":"New Zealand Dollar","isoCode":"NZD","symbol":"$"}
+	]
+}
